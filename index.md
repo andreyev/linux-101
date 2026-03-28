@@ -96,21 +96,6 @@ _Avisos_ :
 
 ---
 
-## Sistema de arquivos
-
-* Simplicadamente:
-* Arquivos são "blocos de dados"
-* Tudo é um arquivo
-* Diretórios são arquivos que contém referências para outros
-* Dispositivos (USB, placa de som etc) são arquivos para acesso aos drivers
-* Existe uma especificação para a distribuição dos arquivos mas ela faz sentido:
-* `/home` coisas de usuários
-* `/bin` binários (**exe**cutáveis)
-* `/tmp` coisas temporárias (são removidas quando o computador reinicia)
-
----
-
-
 # `$ make`
 
 ![bg left:40% 80%](./images/fusca.png)
